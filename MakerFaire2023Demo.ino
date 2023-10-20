@@ -11,9 +11,9 @@
 Adafruit ID - Description
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     4438    - LSM6DSOX 6 DoF Accelerometer and Gyroscope
-    2863    - NeoPixel Ring 24 RGBW ~6000K
-    2856    - NeoPixel Ring 16 RGBW ~6000K
-    2860    - NeoPixel Jewel 7 RGBW ~6000K
+    2863    - NeoPixel Ring 24 GRBW ~6000K
+    2856    - NeoPixel Ring 16 GRBW ~6000K
+    2860    - NeoPixel Jewel 7 GRBW ~6000K
      367    - Tactile Button Switch
     ????    - Arduino Uno rev3
 ==========================================================================================
